@@ -11,6 +11,8 @@ public class PruebaGitflow {
 		
 		System.out.println("Rachel realiza una serie de modificaciones necesarias");
 		
+		System.out.println("Correccion para incorporar control de Excepciones");
+		
 	}
 
 }
