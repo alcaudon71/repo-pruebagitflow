@@ -7,6 +7,12 @@ public class PruebaGitflow {
 
 		System.out.println("Esto es un proyecto de prueba de GitFlow");
 		
+		System.out.println("Correccion Issue --> two Users Can Access Single Entries)");
+		
+		System.out.println("Rachel realiza una serie de modificaciones necesarias");
+		
+		System.out.println("Correccion para incorporar control de Excepciones");
+		
 	}
 
 }
