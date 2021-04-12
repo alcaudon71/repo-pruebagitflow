@@ -7,6 +7,8 @@ public class PruebaGitflow {
 
 		System.out.println("Esto es un proyecto de prueba de GitFlow");
 		
+		System.out.println("Correccion Issue --> two Users Can Access Single Entries)");
+		
 	}
 
 }
