@@ -9,6 +9,8 @@ public class PruebaGitflow {
 		
 		System.out.println("Correccion Issue --> two Users Can Access Single Entries)");
 		
+		System.out.println("Rachel realiza una serie de modificaciones necesarias");
+		
 	}
 
 }
